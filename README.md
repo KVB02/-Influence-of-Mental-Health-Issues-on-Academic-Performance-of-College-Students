@@ -29,7 +29,7 @@ ANOVA: Utilized for performing Analysis of Variance tests, exploring differences
 
 Clone the repository to your local machine to get started with the analysis: 
 
-git clone https://github.com/KVB02/Influence-of-Mental-Health-Impact-on-Academic-Performance.git
+git clone https://github.com/KVB02/-Influence-of-Mental-Health-Issues-on-Academic-Performance-of-College-Students.git
 
 Open the R scripts in your preferred R environment or RStudio for an integrated experience.
 
